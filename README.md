@@ -1,6 +1,6 @@
 # Average Calculator
-# Kevin Gonzalez
-# September 26, 2023
+### Kevin Gonzalez
+### September 26, 2023
 
 This simple Python script allows you to quickly calculate the average of a list of numbers. Whether you have a set of integers or decimals, this tool is here to help.
 
